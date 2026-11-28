@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 👨🏻‍💻 Informatics @ Telkom University | Software Dev & Cybersecurity Enthusiast<br>🛠️ Breaking & building things: Go, Linux homelabs, and 8-bit electronics<br>🌱 #learninginpublic — documenting my code, network setups, and security labs<br>💭 Currently diving deeper into offensive security and low-level systems
 
 
